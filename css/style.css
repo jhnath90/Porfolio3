@@ -1,0 +1,150 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+
+body {
+  background-color: #F9FCFF;
+  font-family: 'Poiret One', cursive;
+}
+
+nav {
+  background-color: #F9FCFF;
+}
+
+.social-icon {
+width: 75px;
+height: 75px;
+margin: 0 5px;
+border-radius: 10px;
+border-style: solid;
+border-width: 5px;
+border-color: black;
+}
+
+h6{
+  color: black;
+}
+
+h5{
+  color: black;
+}
+
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+p {
+  line-height: 2rem;
+}
+
+footer.page-footer {
+  margin: 0;
+  background-color: #F9FCFF;
+}
+
+.button-collapse {
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+
+.skills {
+  height: 100px;
+  width: 150px;
+}
+
+.skills2 {
+  height: 100px;
+  width: 150px;
+}
+
+.skills3 {
+  height: 100px;
+  width: 150px;
+}
+
+#about_me {
+  font-size: 20px;
+}
+
+#about_container {
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 5px;
+}
+
+#header_container {
+  background-color: white;
+  color: black;
+  margin-top: 75px;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 5px;
+}
+
+
+#contact_container{
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 5px;
+}
+
+#contact_me {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.caro-pic {
+  color: black;
+  background-color: white;
+  border-radius: 10px;
+  
+}
+
+
+
+
+
+

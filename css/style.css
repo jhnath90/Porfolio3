@@ -48,6 +48,18 @@ footer.page-footer {
   background-color: #F9FCFF;
 }
 
+.slide-image {
+  border-radius: 10px;
+}
+
+.slides {
+  border-radius: 10px;
+}
+
+.slider {
+  border-radius: 10px;
+}
+
 .button-collapse {
   color: #26a69a;
 }
